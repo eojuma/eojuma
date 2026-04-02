@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-<!--
-**eojuma/eojuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eojuma&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=eojuma&theme=dracula&margin-w=8&margin-h=8" height="150" />
+</div>
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
