@@ -52,4 +52,5 @@ I'm currently deep in backend systems and fintech engineering, working on produc
 
 Interested in fintech, civic tech, open-source infrastructure, and backend engineering for African markets.
 
-[![GitHub](https://img.shields.io/badge/GitHub-eojuma-181717?style=flat-square&logo=github)](https://github.com/eojuma)
+[LinkedIn](https://www.linkedin.com/in/Evans-Juma)
+[Dev.to](https://dev.to/juma_evans_34e389ef539266)
