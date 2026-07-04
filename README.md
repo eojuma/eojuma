@@ -52,5 +52,4 @@ I'm currently deep in backend systems and fintech engineering, working on produc
 
 Interested in fintech, civic tech, open-source infrastructure, and backend engineering for African markets.
 
-[LinkedIn](https://www.linkedin.com/in/Evans-Juma)
-[Dev.to](https://dev.to/juma_evans_34e389ef539266)
+<p align="left"> <a href="https://www.linkedin.com/in/Evans-Juma" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28" /> </a> &nbsp;&nbsp; <a href="https://dev.to/juma_evans_34e389ef539266" target="_blank"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" width="28" height="28" /> </a> </p>
