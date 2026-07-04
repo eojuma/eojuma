@@ -47,9 +47,26 @@ I'm currently deep in backend systems and fintech engineering, working on produc
 </p>
 
 ---
-
 ### 🌍 Based in Kisumu, Kenya
 
 Interested in fintech, civic tech, open-source infrastructure, and backend engineering for African markets.
 
-<p align="left"> <a href="https://www.linkedin.com/in/Evans-Juma" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28" /> </a> &nbsp;&nbsp; <a href="https://dev.to/juma_evans_34e389ef539266" target="_blank"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" width="28" height="28" /> </a> </p>
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/Evans-Juma" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/juma_evans_34e389ef539266" target="_blank" rel="noopener noreferrer">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Od34617267Evans" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/x" alt="X (Twitter)" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:evansjuma1e@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="32" height="32" />
+  </a>
+</p>
