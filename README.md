@@ -1,4 +1,4 @@
-# Hi there, I'm Evans Juma 👋
+# Hi there, I'm Evans Juma
 
 Software Developer at **Zone01 Kisumu** — where we build things from the ground up and understand the *why* behind every line of code.
 
