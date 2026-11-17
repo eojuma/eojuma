@@ -67,7 +67,7 @@ I value code that is understandable, testable, and built around a clearly define
 
 ---
 
-### 🌍 Based in Kisumu, Kenya
+### 🌍 Based in Kisumu,  Kenya
 
 Interested in **backend engineering, fintech, civic technology, open source, and building useful software for African markets.**
 
